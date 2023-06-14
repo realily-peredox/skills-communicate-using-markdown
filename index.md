@@ -4,3 +4,6 @@
 ## Markdown is so cool!
 ![cat again](https://octodex.github.com/images/yaktocat.png)
 ```
+- [ ] Task item #1!
+- [ ] Check off item #1
+- [ ] Idk what Aaron told me to do this morning
